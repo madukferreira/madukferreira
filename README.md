@@ -1,16 +1,41 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**madukferreira/madukferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Maria Ferreira.
 
-Here are some ideas to get you started:
+🎓 Sou estudante de Ciência da Computação na UNICID (Universidade Cidade de São Paulo).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Atualmente estou no segundo semestre, desenvolvendo conhecimentos em programação, algoritmos e fundamentos de desenvolvimento de software.
+
+💻 Atualmente estudando:
+- Python
+- Git e GitHub
+- Lógica de Programação
+- Estruturas de Dados
+- Desenvolvimento de Software
+
+🎯 Meu objetivo é conquistar minha primeira oportunidade de estágio na área de Tecnologia, aplicando meus conhecimentos e evoluindo profissionalmente.
+
+🌎 Idiomas:
+- Português: Nativo
+- Inglês: Fluente
+- 
+# Hi! 👋
+
+My name is Maria Ferreira.
+
+🎓 I am a Computer Science student at UNICID (Universidade Cidade de São Paulo).
+
+📚 I am currently in my second semester, learning programming, algorithms, and software development fundamentals.
+
+💻 Currently learning:
+- Python
+- Git and GitHub
+- Programming Logic
+- Data Structures
+- Software Development
+
+🎯 My goal is to get my first internship opportunity in Technology, applying my knowledge and continuously improving my skills.
+
+🌎 Languages:
+- Portuguese: Native
+- English: Fluent
