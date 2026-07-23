@@ -18,7 +18,7 @@ Meu nome é Maria Ferreira.
 🌎 Idiomas:
 - Português: Nativo
 - Inglês: Fluente
-- 
+
 # Hi! 👋
 
 My name is Maria Ferreira.
