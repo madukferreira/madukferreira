@@ -1,41 +1,32 @@
-# Olá!
+<div align="center">
 
-Meu nome é Maria Ferreira.
+![Banner de Apresentação](assets/banner.svg)
 
-Sou estudante de Ciência da Computação na UNICID.
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madukferreira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariakferreira/)
 
-Atualmente estou no segundo semestre, desenvolvendo conhecimentos em programação, algoritmos e fundamentos de desenvolvimento de software.
+<div align="center">
 
-Atualmente estudando:
-- Python
-- Git e GitHub
-- Lógica de Programação
-- Estruturas de Dados
-- Desenvolvimento de Software
+![Divisor Visual](assets/divisor.svg)
 
-Meu objetivo é aplicar meus conhecimentos e evoluir profissionalmente.
+![Sobre Mim](assets/sobre-mim.svg)
 
-Idiomas:
-- Português: Nativo
-- Inglês: Fluente
+<br/>
 
-# Hi!
+![Atualmente Estudando](assets/estudos.svg)
 
-My name is Maria Ferreira.
+<br/>
 
-I am a Computer Science student at UNICID.
+![Objetivo Profissional](assets/objetivo.svg)
 
-I am currently in my second semester, learning programming, algorithms, and software development fundamentals.
+<br/>
 
-Currently learning:
-- Python
-- Git and GitHub
-- Programming Logic
-- Data Structures
-- Software Development
+![Idiomas](assets/idiomas.svg)
 
-My goal is to apply my knowledge and continuously improve my skills.
+<br/>
 
-Languages:
-- Portuguese: Native
-- English: Fluent
+![Divisor Visual](assets/divisor.svg)
+
+<div align="center">
+
+</div>
